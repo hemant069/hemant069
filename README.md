@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemantprajapti
 - 👀 I’m interested in ...computer
-- 🌱 I’m currently learning ...Web development
+- 🌱 I’m currently learning ...Full stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...hemantprajapati20500@gmail.com
 
