@@ -1,15 +1,13 @@
 <h1 align="center">Hi <img height=45px; src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Hemant Prajapati</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A Passionate MERN-Stack Developer From India 👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant069&label=Profile%20views&color=0e75b6&style=flat" alt="hemant069" /> </p>
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+ 
   
 
-### <div align="center">A Passionate MERN-Stack Developer From India 👨‍💻 </div>  
+### <div align="center">  </div>  
   
 
 - 🌱 I’m currently learning MongoDB, Node Js, Express  
@@ -25,7 +23,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" >
 
 
 
@@ -39,7 +37,7 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" >
 
 
 
@@ -50,7 +48,7 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" >
 
 
 
@@ -102,9 +100,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
+ 
   
 
 <br/>  
@@ -119,4 +115,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
