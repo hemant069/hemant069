@@ -89,9 +89,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a> 
 
-<a href="https://hemant-prajapati.vercel.app/" target="_blank">
-<img height="50" width="80" src="https://cdn.iconscout.com/icon/free/png-256/online-portfolio-8-1133507.png" />
-</a>
+
 
 </div> 
 
