@@ -14,8 +14,10 @@
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
 
+<img src="https://i.pinimg.com/originals/27/b7/71/27b7711430a9afb1d4826a2b5c33e262.gif" align="right" width="400px" >
 
 <br>
+
 
 
 
@@ -29,6 +31,7 @@
         <img src="https://img.shields.io/github/followers/hemant069?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
+
 <br>
 
 
