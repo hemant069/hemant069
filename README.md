@@ -87,7 +87,12 @@
 </a>
 <a href="https://medium.com/@hemantprajapati7860" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
+</a> 
+
+<a href="https://hemant-prajapati.vercel.app/" target="_blank">
+<img height="50" width="80" src="https://cdn.iconscout.com/icon/free/png-256/online-portfolio-8-1133507.png" />
+</a>
+
 </div> 
 
 
@@ -99,7 +104,16 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hemant069&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="hemant069" height="139" />
 
+
 </p>
+
+<p><img  height="139" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemant069&show_icons=true&locale=en&layout=compact" alt="hemant069" /></p> 
+
+<p><img height="139" src="https://github-readme-streak-stats.herokuapp.com/?user=hemant069&" alt="hemant069" /></p> <br>
+
+<br>
+
+
 <br>
 
 
