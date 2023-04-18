@@ -112,7 +112,7 @@
 <br>
 
 
-<a href="https://github.com/hemant069/github-readme-activity-graph"><img alt="hemant069's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hemant069&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hemant069&bg_color=d6d1d4&color=bda3bb&line=b19ab0&point=544f4f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
