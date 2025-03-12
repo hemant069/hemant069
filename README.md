@@ -107,14 +107,7 @@
 
 <p><img  height="139" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemant069&show_icons=true&locale=en&layout=compact" alt="hemant069" /></p> 
 
-<p><img height="139" src="https://github-readme-streak-stats.herokuapp.com/?user=hemant069&" alt="hemant069" /></p> <br>
 
-<br>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hemant069&bg_color=d6d1d4&color=bda3bb&line=b19ab0&point=544f4f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
 
 
 
